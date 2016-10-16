@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="firstAction">Première action</string>
+    <string name="secondAction">Seconde action</string>
+    <string name="person_name">Nom</string>
+</resources>
